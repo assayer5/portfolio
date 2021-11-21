@@ -1,6 +1,6 @@
 
 
-## [Project: Housing Prices Prediction](https://github.com/assayer5/kaggle-housing-prices)
+## [Project: Housing Prices Regression](https://github.com/assayer5/kaggle-housing-prices)
 
 ### Overview
 Predict housing prices using the Ames, Iowa Housing Prices dataset available as [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). 
