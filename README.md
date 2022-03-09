@@ -16,14 +16,23 @@ Final model scored a mean accuracy of 0.95 with 5-fold cross validation on the t
 tags: classification, feature selection, correlation matrix, scipy, seaborn, pandas
 
 
-## [Project 3: Yelp Restaurant Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
+## [Project 3: Image Classification with Neural Networks](https://github.com/assayer5/cnn-flower-classif)
+
+#### Overview
+Classified ~100 different flower types from images drawn from 5 public data sets in a [Kaggle image classification competition](https://www.kaggle.com/c/tpu-getting-started/overview).  
+Model scored an accuracy of 0.8025 on the validation set and an accuracy of 0.7624 on the Kaggle test set.
+
+tags: classification, neural network, cnn, tensorflow, keras
+
+
+## [Project 4: Yelp Restaurant Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
 
 #### Overview
 Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn
 
 tags: pandas, matplotlib, seaborn, numpy, nltk, sentiment analysis
 
-## [Project 4: Housing Prices Regression](https://github.com/assayer5/kaggle-housing-prices)
+## [Project 5: Housing Prices Regression](https://github.com/assayer5/kaggle-housing-prices)
 
 #### Overview
 Predicted housing prices using Ridge regression on the Ames, Iowa Housing Prices dataset available as [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Final model scored a mean RMSE 0.12132 with 10-fold cross validation and RMSE 0.12498 on the Kaggle test set.
