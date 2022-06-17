@@ -31,9 +31,9 @@ Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven s
 
 tags: pandas, matplotlib, seaborn, numpy, nltk, sentiment analysis
 
-## [Project 5: Housing Prices Regression](https://github.com/assayer5/kaggle-housing-prices)
+## [Project 5: Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
 #### Overview
-Predicted housing prices using Ridge regression on the Ames, Iowa Housing Prices dataset available as [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Final model scored a mean RMSE 0.12132 with 10-fold cross validation and RMSE 0.12498 on the Kaggle test set.
+Parsed a VCF file to generate queries to an API, annotating the variants with API response. 
 
-tags: categorical, numerical, data cleaning, regression, feature engineering, k-means, sklearn, matplotlib, seaborn, pandas
+tags: pandas, API, requests, json
