@@ -24,12 +24,12 @@ Classified ~100 different flower types with a convolutional neural network. Imag
 tags: classification, neural network, cnn, tensorflow, keras
 
 
-## [Project 4: Yelp Restaurant Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
+## [Project 4: Analysis of Yelp Restaurant Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
 
 #### Overview
-Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn
+Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
 
-tags: pandas, matplotlib, seaborn, numpy, nltk, sentiment analysis
+tags: pandas, matplotlib, seaborn, numpy, nltk, sentiment analysis, pyspark, distributed computing
 
 ## [Project 5: Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
