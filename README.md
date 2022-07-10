@@ -27,7 +27,7 @@ tags: classification, feature selection, correlation matrix, scipy, seaborn, pan
 ## [Project 4: Image Classification with Neural Networks](https://github.com/assayer5/cnn-flower-classif)
 
 #### Overview
-Classified ~100 different flower types with a convolutional neural network. Images were drawn from 5 public data sets to generate a [Kaggle image classification competition](https://www.kaggle.com/c/tpu-getting-started/overview). Model scored an accuracy of 0.8025 on the validation set and an accuracy of 0.7624 on the Kaggle test set.
+Classified ~100 different flower types with a convolutional neural network. Images were drawn from 5 public data sets to generate a [Kaggle image classification competition](https://www.kaggle.com/c/tpu-getting-started/overview). Model scored an accuracy of 0.8424 on the validation set and an accuracy of 0.79649 on the Kaggle test set.
 
 tags: classification, neural network, cnn, tensorflow, keras
 
