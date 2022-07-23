@@ -35,6 +35,6 @@ tags: classification, neural network, cnn, tensorflow, keras
 ## [Project 5: Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
 #### Overview
-Parsed a VCF file to generate queries to an API, annotating the variants with API response. 
+Parsed a VCF file to generate queries to an API, annotating the variants with API response. Unit tested functions.
 
-tags: pandas, API, requests, json
+tags: pandas, API, requests, json, unit testing
