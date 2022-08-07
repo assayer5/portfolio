@@ -9,8 +9,8 @@ tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
 ## [Project 2: E. coli Promoter Sequence Classification](https://github.com/assayer5/ecolipromoter)
 
 #### Overview
-Classified E. coli sequences as promoter or non-promoter using k-mer counting and a naive bayes classifier on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
-Final model scored a mean accuracy of 0.9125 with 5-fold cross validation and an accuracy of 0.9259 on the test set.
+Classified E. coli sequences as promoter or non-promoter using k-mer counting on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
+Naive bayes classifier and logistic regression yielded similar results in 5-fold cross validation and test set accuracy.
 
 tags: classification, feature engineering, k-mer counting, confusion matrix, pandas, sklearn
 
