@@ -1,3 +1,10 @@
+## [In-Progress Project: Multimodal single cell NGS data](https://github.com/assayer5/multimodal-single-cell)
+
+#### Overview
+Multimodal single cell NGS data utilized in ensemble learning for multioutput regression. 
+
+tags: sparse data, anndata, ensemble learning, regression, xgboost
+
 ## [Project 1: Analysis of Yelp Restaurant Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
 
 #### Overview
