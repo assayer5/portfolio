@@ -1,9 +1,9 @@
-### [Bayesian Regression](https://github.com/assayer5/bayesian-curvefit-reg)
+### [Bayesian Analysis and Modeling](https://github.com/assayer5/bayesian-curvefit-reg)
 
 #### Overview
-Estimated parameters for curve fitting a simulated dose response curve and estimated trend in precipitation data with regression using PyMC for Bayesian probabilistic programming. Sampled posterior distributions to plot uncertainty of estimates.
+Estimated parameters for curve fitting a simulated dose response curve, estimated trend in precipitation data with regression, and estimated means of grouped data with hierarchical model using PyMC for Bayesian probabilistic programming. 
 
-tags: bayesian analysis, pymc, curve fit, regression
+tags: bayesian analysis, bayesian hierarchical gamma, pymc, curve fit, regression
 
 ### [Multimodal single cell NGS data](https://github.com/assayer5/multimodal-single-cell)
 
