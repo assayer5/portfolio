@@ -1,3 +1,10 @@
+### [Project: Image Clustering](https://github.com/assayer5/pytorch-image-clustering)
+
+#### Overview
+Clustered images of numbers 5, 6, 8, and 9 from MNIST dataset. Tested two methods: feature extraction from pre-trained model, feature generation with autoencoders.
+
+tags: clustering, neural network, cnn, autoencoder, transfer learning, pytorch
+
 ### [Bayesian Analysis and Modeling](https://github.com/assayer5/bayesian-curvefit-reg)
 
 #### Overview
@@ -44,11 +51,3 @@ Classified microarray samples as Acute Lymphoblastic Leukemia (ALL) or Acute Mye
 Final model scored a mean accuracy of 0.946 with 5-fold cross validation on the training set and classified samples with an accuracy of 0.882 on the test set.
 
 tags: classification, feature selection, correlation matrix, scipy, seaborn, pandas
-
-
-### [Image Classification](https://github.com/assayer5/cnn-flower-classif)
-
-#### Overview
-Classified ~100 different flower types with a convolutional neural network. Images were drawn from 5 public data sets to generate a [Kaggle image classification competition](https://www.kaggle.com/c/tpu-getting-started/overview). Model scored an accuracy of 0.8424 on the validation set and an accuracy of 0.79649 on the Kaggle test set.
-
-tags: classification, neural network, cnn, tensorflow, keras
