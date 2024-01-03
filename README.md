@@ -1,9 +1,9 @@
-### [Project: Image Clustering](https://github.com/assayer5/pytorch-image-clustering)
+### [Data Wrangling, FoodData Central](https://github.com/assayer5/fooddata-central)
 
 #### Overview
-Clustered images of numbers 5, 6, 8, and 9 from MNIST dataset. Tested two methods: feature extraction from pre-trained model, feature generation with autoencoders.
+Cleaning, organizing, and filtering ~2M entries from the USDA FoodData Central database for later analysis and visualization.
 
-tags: clustering, neural network, cnn, autoencoder, transfer learning, pytorch
+tags: pandas, matplotlib, seaborn, data cleaning
 
 ### [Bayesian Analysis and Modeling](https://github.com/assayer5/bayesian-curvefit-reg)
 
@@ -12,20 +12,6 @@ Estimated parameters for curve fitting a simulated dose response curve, estimate
 
 tags: bayesian analysis, bayesian hierarchical gamma, pymc, curve fit, regression
 
-### [Multimodal single cell NGS data](https://github.com/assayer5/multimodal-single-cell)
-
-#### Overview
-Multimodal single cell NGS data (Multiome and CITE-seq) utilized for multioutput regression. For the CITE-seq dataset, scRNA-seq data is used to predict surface protein expression with ensemble model of boosted trees and regularized regression. For the Multiome dataset, ATAC-seq data is used to predict gene expression with a neural network.
-
-tags: sparse data, anndata, ensemble learning, regression, xgboost, pytorch, neural network
-
-### [Analysis of Yelp Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
-
-#### Overview
-Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
-
-tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
-
 
 ### [Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
@@ -33,6 +19,30 @@ tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
 Parsed a VCF file to generate queries to an API, annotating the variants with API response. Unit tested functions.
 
 tags: pandas, API, requests, json, unit testing
+
+
+### [Image Clustering](https://github.com/assayer5/pytorch-image-clustering)
+
+#### Overview
+Clustered images of numbers 5, 6, 8, and 9 from MNIST dataset. Tested two methods: feature extraction from pre-trained model, feature generation with autoencoders.
+
+tags: clustering, neural network, cnn, autoencoder, transfer learning, pytorch
+
+
+### [Multimodal single cell NGS data](https://github.com/assayer5/multimodal-single-cell)
+
+#### Overview
+Multimodal single cell NGS data (Multiome and CITE-seq) utilized for multioutput regression. For the CITE-seq dataset, scRNA-seq data is used to predict surface protein expression with ensemble model of boosted trees and regularized regression. For the Multiome dataset, ATAC-seq data is used to predict gene expression with a neural network.
+
+tags: sparse data, anndata, ensemble learning, regression, xgboost, pytorch, neural network
+
+
+### [Analysis of Yelp Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
+
+#### Overview
+Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
+
+tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
 
 
 ### [E. coli Promoter Sequence Classification](https://github.com/assayer5/ecolipromoter)
