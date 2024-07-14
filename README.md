@@ -1,7 +1,7 @@
 ### [Data Wrangling, FoodData Central](https://github.com/assayer5/fooddata-central)
 
 #### Overview
-Cleaning, organizing, and filtering ~2M entries from the USDA FoodData Central database for later analysis and visualization.
+Cleaned, organized, and filtered ~2M entries from the USDA FoodData Central database for later analysis and visualization.
 
 tags: pandas, matplotlib, seaborn, data cleaning
 
@@ -16,7 +16,7 @@ tags: bayesian analysis, bayesian hierarchical gamma, pymc, curve fit, regressio
 ### [Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
 #### Overview
-Parsed a VCF file to generate queries to an API, annotating the variants with API response. Unit tested functions.
+Parsed text of a VCF file to generate queries to a database API, annotated the file with data from API response, unit tested functions.
 
 tags: pandas, API, requests, json, unit testing
 
@@ -40,7 +40,7 @@ tags: sparse data, anndata, ensemble learning, regression, xgboost, pytorch, neu
 ### [Analysis of Yelp Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
 
 #### Overview
-Analysis of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal, applying VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
+Analyzed of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal: applied VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
 
 tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
 
