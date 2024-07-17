@@ -1,3 +1,9 @@
+### [MAT File Subimage Extraction](https://github.com/assayer5/get-mat-subimages)
+#### Overview
+A tool to cut sub-images from a larger MATLAB image (.mat file)
+
+tags: opencv, image processing
+
 ### [Data Wrangling, FoodData Central](https://github.com/assayer5/fooddata-central)
 
 #### Overview
