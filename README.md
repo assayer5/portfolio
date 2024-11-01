@@ -1,60 +1,60 @@
+
+### [Time Series Analysis](https://github.com/assayer5/time-series-analysis)
+
+**Overview:** Analysis of time series data, visualizing patterns and modeling data for prediction.
+
+tags: time series, statsmodels, heatmap, ARIMA
+
 ### [MAT File Subimage Extraction](https://github.com/assayer5/get-mat-subimages)
-#### Overview
-A tool to cut sub-images from a larger MATLAB image (.mat file)
+
+**Overview:** A tool to cut sub-images from a larger MATLAB image (.mat file)
 
 tags: opencv, image processing
 
 ### [Data Wrangling, FoodData Central](https://github.com/assayer5/fooddata-central)
 
-#### Overview
-Cleaned, organized, and filtered ~2M entries from the USDA FoodData Central database for later analysis and visualization.
+**Overview:** Cleaned, organized, and filtered ~2M entries from the USDA FoodData Central database for later analysis and visualization.
 
 tags: pandas, matplotlib, seaborn, data cleaning
 
 ### [Bayesian Analysis and Modeling](https://github.com/assayer5/bayesian-curvefit-reg)
 
-#### Overview
-Estimated parameters for curve fitting a simulated dose response curve, estimated trend in precipitation data with regression, and estimated means of grouped data with hierarchical model using PyMC for Bayesian probabilistic programming. 
+**Overview:** Estimated parameters for curve fitting a simulated dose response curve, estimated trend in precipitation data with regression, and estimated means of grouped data with hierarchical model using PyMC for Bayesian probabilistic programming. 
 
 tags: bayesian analysis, bayesian hierarchical gamma, pymc, curve fit, regression
 
 
 ### [Data Accession via API](https://github.com/assayer5/VCF-annotation)
 
-#### Overview
-Parsed text of a VCF file to generate queries to a database API, annotated the file with data from API response, unit tested functions.
+**Overview:** Parsed text of a VCF file to generate queries to a database API, annotated the file with data from API response, unit tested functions.
 
 tags: pandas, API, requests, json, unit testing
 
 
 ### [Image Clustering](https://github.com/assayer5/pytorch-image-clustering)
 
-#### Overview
-Clustered images of numbers 5, 6, 8, and 9 from MNIST dataset. Tested two methods: feature extraction from pre-trained model, feature generation with autoencoders.
+**Overview:** Clustered images of numbers 5, 6, 8, and 9 from MNIST dataset. Tested two methods: feature extraction from pre-trained model, feature generation with autoencoders.
 
 tags: clustering, neural network, cnn, autoencoder, transfer learning, pytorch
 
 
 ### [Multimodal single cell NGS data](https://github.com/assayer5/multimodal-single-cell)
 
-#### Overview
-Multimodal single cell NGS data (Multiome and CITE-seq) utilized for multioutput regression. For the CITE-seq dataset, scRNA-seq data is used to predict surface protein expression with ensemble model of boosted trees and regularized regression. For the Multiome dataset, ATAC-seq data is used to predict gene expression with a neural network.
+**Overview:** Multimodal single cell NGS data (Multiome and CITE-seq) utilized for multioutput regression. For the CITE-seq dataset, scRNA-seq data is used to predict surface protein expression with ensemble model of boosted trees and regularized regression. For the Multiome dataset, ATAC-seq data is used to predict gene expression with a neural network.
 
 tags: sparse data, anndata, ensemble learning, regression, xgboost, pytorch, neural network
 
 
 ### [Analysis of Yelp Reviews](https://github.com/assayer5/yelp-restaurant-reviews)
 
-#### Overview
-Analyzed of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal: applied VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
+**Overview:** Analyzed of 2M+ Yelp users and 5M+ restaurant reviews to develop a data driven strategy to pick a delicious meal: applied VADER sentiment analysis and visualized with matplotlib, seaborn. Data processing adapted to work for distributed computing with PySpark.
 
 tags: pandas, nltk, sentiment analysis, pyspark, distributed computing
 
 
 ### [E. coli Promoter Sequence Classification](https://github.com/assayer5/ecolipromoter)
 
-#### Overview
-Classified E. coli sequences as promoter or non-promoter using k-mer counting on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
+**Overview:** Classified E. coli sequences as promoter or non-promoter using k-mer counting on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
 Naive bayes classifier and logistic regression yielded similar results in 5-fold cross validation and test set accuracy.
 
 tags: classification, feature engineering, k-mer counting, confusion matrix, pandas, sklearn
@@ -62,8 +62,7 @@ tags: classification, feature engineering, k-mer counting, confusion matrix, pan
 
 ### [Microarray Leukemia Classification](https://github.com/assayer5/microarray-leukemia-classif)
 
-#### Overview
-Classified microarray samples as Acute Lymphoblastic Leukemia (ALL) or Acute Myeloid Leukemia (AML) using a support vector classifier (SVC) on a small subset of the normalized intensity values of 7,129 genes from microarray samples generated by Golub, et al.
+**Overview:** Classified microarray samples as Acute Lymphoblastic Leukemia (ALL) or Acute Myeloid Leukemia (AML) using a support vector classifier (SVC) on a small subset of the normalized intensity values of 7,129 genes from microarray samples generated by Golub, et al.
 Final model scored a mean accuracy of 0.946 with 5-fold cross validation on the training set and classified samples with an accuracy of 0.882 on the test set.
 
 tags: classification, feature selection, correlation matrix, scipy, seaborn, pandas
