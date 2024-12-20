@@ -3,7 +3,7 @@
 
 **Overview:** Analysis of time series data, visualizing patterns and modeling data for prediction.
 
-tags: time series, statsmodels, heatmap, ARIMA
+tags: time series, statsmodels, heatmap, ARIMA, simulation
 
 ### [MAT File Subimage Extraction](https://github.com/assayer5/get-mat-subimages)
 
@@ -19,9 +19,9 @@ tags: pandas, matplotlib, seaborn, data cleaning
 
 ### [Bayesian Analysis and Modeling](https://github.com/assayer5/bayesian-curvefit-reg)
 
-**Overview:** Estimated parameters for curve fitting a simulated dose response curve, estimated trend in precipitation data with regression, and estimated means of grouped data with hierarchical model using PyMC for Bayesian probabilistic programming. 
+**Overview:** Estimated parameters for curve fitting a simulated dose response curve and estimated trend in precipitation data with regression using PyMC for Bayesian probabilistic programming. 
 
-tags: bayesian analysis, bayesian hierarchical gamma, pymc, curve fit, regression
+tags: bayesian analysis, pymc, curve fit, regression
 
 
 ### [Data Accession via API](https://github.com/assayer5/VCF-annotation)
